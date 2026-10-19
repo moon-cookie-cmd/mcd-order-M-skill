@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "id": "B001",
+      "name": "巨无霸",
+      "category": "burger",
+      "slot": ["lunch", "dinner"],
+      "kcal": 563,
+      "price_cny": 24.5,
+      "tags": ["beef", "cheese", "mayonnaise", "lettuce", "pickles", "onion"]
+    },
+    {
+      "id": "B002",
+      "name": "双层牛肉堡",
+      "category": "burger",
+      "slot": ["lunch", "dinner"],
+      "kcal": 450,
+      "price_cny": 21.0,
+      "tags": ["beef", "cheese", "mustard", "pickles", "onion"]
+    },
+    {
+      "id": "B003",
+      "name": "板烧鸡腿堡",
+      "category": "burger",
+      "slot": ["lunch", "dinner"],
+      "kcal": 540,
+      "price_cny": 22.5,
+      "tags": ["chicken", "lettuce", "mayonnaise"]
+    },
+    {
+      "id": "B004",
+      "name": "麦辣鸡腿堡",
+      "category": "burger",
+      "slot": ["lunch", "dinner"],
+      "kcal": 480,
+      "price_cny": 20.0,
+      "tags": ["chicken", "lettuce", "sauce_spicy"]
+    },
+    {
+      "id": "B005",
+      "name": "麦满分·火腿芝士",
+      "category": "burger",
+      "slot": ["breakfast"],
+      "kcal": 290,
+      "price_cny": 12.5,
+      "tags": ["ham", "cheese", "egg"]
+    },
+    {
+      "id": "B006",
+      "name": "麦满分·培根蛋",
+      "category": "burger",
+      "slot": ["breakfast"],
+      "kcal": 340,
+      "price_cny": 13.5,
+      "tags": ["bacon", "egg"]
+    },
+    {
+      "id": "S001",
+      "name": "中份薯条",
+      "category": "side",
+      "slot": ["lunch", "afternoon_tea", "dinner", "late_night"],
+      "kcal": 320,
+      "price_cny": 11.5,
+      "tags": ["potato", "salt"]
+    },
+    {
+      "id": "S002",
+      "name": "麦乐鸡 6 块",
+      "category": "side",
+      "slot": ["lunch", "afternoon_tea", "dinner", "late_night"],
+      "kcal": 290,
+      "price_cny": 13.0,
+      "tags": ["chicken"]
+    },
+    {
+      "id": "S003",
+      "name": "苹果派",
+      "category": "dessert",
+      "slot": ["afternoon_tea", "lunch", "dinner"],
+      "kcal": 230,
+      "price_cny": 7.5,
+      "tags": ["apple", "pastry"]
+    },
+    {
+      "id": "S004",
+      "name": "麦旋风·奥利奥",
+      "category": "dessert",
+      "slot": ["afternoon_tea", "dinner", "late_night"],
+      "kcal": 330,
+      "price_cny": 9.5,
+      "tags": ["dairy", "cookie"]
+    },
+    {
+      "id": "D001",
+      "name": "中杯可乐",
+      "category": "drink",
+      "slot": ["breakfast", "lunch", "afternoon_tea", "dinner", "late_night"],
+      "kcal": 200,
+      "price_cny": 8.0,
+      "tags": ["soda"]
+    },
+    {
+      "id": "D002",
+      "name": "无糖可乐",
+      "category": "drink",
+      "slot": ["breakfast", "lunch", "afternoon_tea", "dinner", "late_night"],
+      "kcal": 0,
+      "price_cny": 8.0,
+      "tags": ["soda", "diet"]
+    },
+    {
+      "id": "D003",
+      "name": "鲜煮咖啡",
+      "category": "drink",
+      "slot": ["breakfast", "lunch", "afternoon_tea"],
+      "kcal": 5,
+      "price_cny": 10.0,
+      "tags": ["coffee"]
+    }
+  ]
+}
